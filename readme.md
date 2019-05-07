@@ -16,6 +16,7 @@ You can then access petclinic here: http://localhost:9966/petclinic/
 
 ## Swagger REST API documentation presented here (after application start):
 <a href="http://localhost:9966/petclinic/swagger-ui.html">http://localhost:9966/petclinic/swagger-ui.html</a>
+Not up to date though!
 
 ## Database configuration
 
