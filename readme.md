@@ -1,14 +1,13 @@
 # REST version of Spring PetClinic Sample Application (spring-framework-petclinic extend ) [![Build Status](https://travis-ci.org/spring-petclinic/spring-petclinic-rest.png?branch=master)](https://travis-ci.org/spring-petclinic/spring-petclinic-rest/)
 
 This backend version of the Spring Petclinic application only provides a REST API. **There is no UI**.
-The [spring-petclinic-angular project](https://github.com/spring-petclinic/spring-petclinic-angular) is a Angular 5 front-end application witch consumes the REST API.
 
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
 
 ## Running petclinic locally
 ```
-	git clone https://github.com/spring-petclinic/spring-petclinic-rest.git
+	git clone https://github.com/KristofVanKriekingen1337/spring-petclinic-rest.git
 	cd spring-petclinic-rest
 	./mvnw spring-boot:run
 ```
@@ -17,14 +16,6 @@ You can then access petclinic here: http://localhost:9966/petclinic/
 
 ## Swagger REST API documentation presented here (after application start):
 <a href="http://localhost:9966/petclinic/swagger-ui.html">http://localhost:9966/petclinic/swagger-ui.html</a>
-
-## Screenshot of the Angular 5 client
-
-<img width="1427" alt="spring-petclinic-angular2" src="https://cloud.githubusercontent.com/assets/838318/23263243/f4509c4a-f9dd-11e6-951b-69d0ef72d8bd.png">
-
-## In case you find a bug/suggested improvement for Spring Petclinic
-Our issue tracker is available here: https://github.com/spring-petclinic/spring-petclinic-rest/issues
-
 
 ## Database configuration
 
@@ -125,7 +116,7 @@ If m2e is not there, just follow the install process here: http://eclipse.org/m2
 
 1) In the command line
 ```
-git clone https://github.com/spring-petclinic/spring-petclinic-rest.git
+git clone https://github.com/KristofVanKriekingen1337/spring-petclinic-rest.git
 ```
 2) Inside Eclipse
 ```
