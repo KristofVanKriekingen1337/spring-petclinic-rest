@@ -5,6 +5,10 @@ This backend version of the Spring Petclinic application only provides a REST AP
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
 
+## Prerequisites
+
+Maven: http://maven.apache.org/download.cgi
+
 ## Running petclinic locally
 ```
 	git clone https://github.com/KristofVanKriekingen1337/spring-petclinic-rest.git
