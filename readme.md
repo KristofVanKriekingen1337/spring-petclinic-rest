@@ -19,7 +19,7 @@ Maven: http://maven.apache.org/download.cgi
 You can then access petclinic here: http://localhost:9966/petclinic/
 
 ## Swagger REST API documentation presented here (after application start):
-<a href="http://localhost:9966/petclinic/swagger-ui.html">http://localhost:9966/petclinic/swagger-ui.html</a>
+<a href="https://documenter.getpostman.com/view/6796216/S17nVB6w">https://documenter.getpostman.com/view/6796216/S17nVB6w</a>
 Not up to date though!
 
 ## Database configuration
