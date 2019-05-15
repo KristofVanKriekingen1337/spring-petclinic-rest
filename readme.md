@@ -14,7 +14,7 @@ Git: https://git-scm.com/downloads
 ```
 	git clone https://github.com/KristofVanKriekingen1337/spring-petclinic-rest.git
 	cd spring-petclinic-rest
-	./mvnw spring-boot:run
+	./mvn spring-boot:run
 ```
 
 You can then access petclinic here: http://localhost:9966/petclinic/
