@@ -13,7 +13,7 @@ Git: https://git-scm.com/downloads
 
 Make sure to have the paths properly in your system variables like so:
 
-[img]https://i.imgur.com/QfpMwwQ.png[/img]
+https://i.imgur.com/QfpMwwQ.png
 
 ## Running petclinic locally
 ```
