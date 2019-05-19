@@ -7,8 +7,13 @@ This backend version of the Spring Petclinic application only provides a REST AP
 
 ## Prerequisites
 
+Java: JDK  
 Maven: http://maven.apache.org/download.cgi   
 Git: https://git-scm.com/downloads
+
+Make sure to have the paths properly in your system variables like so:
+
+[img]https://i.imgur.com/QfpMwwQ.png[/img]
 
 ## Running petclinic locally
 ```
